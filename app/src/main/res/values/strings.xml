@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Offer_wall</string>
+
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+
+    <string name="you_lose">You lose</string>
+    <string name="little_prize">You win the little prize</string>
+    <string name="big_prize">You win the big prize</string>
+
+    <string name="slot_one">Slot one</string>
+    <string name="slot_two">Slot two</string>
+    <string name="slot_three">Slot three</string>
+
+</resources>
+
